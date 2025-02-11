@@ -20,7 +20,7 @@ To run this project, you need a web browser.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/image-carousel.git
+    git clone https://github.com/Aniket-Gupta-Tech-2005/3D-sliding-image-2.git
     ```
 
 2. Navigate to the project directory:
@@ -40,9 +40,5 @@ To run this project, you need a web browser.
 
 Open `index.html` in a web browser to view the image carousel. Use the "next" and "prev" buttons to navigate through the images.
 
-### Project Preview
-```sh
-https://aniket-gupta31.github.io/3D-image-sliding-/
-```
 
 
